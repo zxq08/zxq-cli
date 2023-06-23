@@ -1,10 +1,17 @@
 {
   "name": "zxq-cli",
   "version": "1.0.0",
+  "author": "zxq",
+  "description": "zxq-cli",
   "main": "index.js",
   "license": "MIT",
   "bin": {
     "create": "bin/index.js"
+  },
+  "keywords": ["zxq"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zxq08/zxq-cli"
   },
   "homepage": "https://github.com/zxq08/zxq-cli.git",
   "bugs": "https://github.com/zxq08/zxq-cli/issues", 
